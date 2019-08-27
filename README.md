@@ -1,2 +1,3 @@
 # movieApp
-A movie searching ExpressJS application created using movie API
+
+A movie search API application created using ExpressJS and nodeJS
